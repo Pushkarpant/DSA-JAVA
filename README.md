@@ -5,7 +5,7 @@
 ### Daily LeetCode practice — consistency over intensity
 
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://adoptium.net)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/pantpushkar4)
 [![Problems Solved](https://img.shields.io/badge/Solved-0%2F120-blue?style=flat-square)](https://github.com/Pushkarpant/dsa-java)
 [![Streak](https://img.shields.io/badge/Daily_Streak-Day_1-green?style=flat-square)](https://github.com/Pushkarpant/dsa-java)
 
@@ -257,6 +257,6 @@ while (!q.isEmpty()) { Node n = q.poll(); ... }
 
 Solving one problem every day. No days off.
 
-[![LeetCode Profile](https://img.shields.io/badge/My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
+[![LeetCode Profile](https://img.shields.io/badge/My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pantpushkar4)
 
 </div>
